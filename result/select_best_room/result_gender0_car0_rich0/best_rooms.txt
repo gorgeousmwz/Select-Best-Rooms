@@ -1,0 +1,446 @@
+The general information of best rooms is follows.
++----------+--------------------+--------------------+-------+--------------------+-------------------+-------------------+
+|    id    |  dangerous value   |   dangerous rate   | price |      distance      |    review score   |        FES        |
++----------+--------------------+--------------------+-------+--------------------+-------------------+-------------------+
+| 2791050  | 26632.14214467843  | 10.19607279658439  |   74  | 1.8180414438936563 | 489.0644000000011 | 99.09424482110612 |
+| 3103276  | 26632.14214467843  | 10.19607279658439  |   59  | 1.8180414438936563 | 445.2121000000012 | 96.61364058334098 |
+|  713529  | 13717.957358605854 | 11.469864012212252 |   99  | 2.0177428644349926 | 248.2635000000006 | 88.41485655668619 |
+| 28253557 | 12685.688677983126 | 7.497451937342273  |   95  | 4.207475105836787  | 280.7450000000007 | 86.35118632417002 |
+| 18746031 | 26632.14214467843  | 10.19607279658439  |   95  | 0.868114431231799  | 216.9379000000002 |  86.2627651990665 |
+| 4231934  | 13717.957358605854 | 11.469864012212252 |   99  | 2.1459522595697003 | 194.0433000000004 |  84.8311794891612 |
+| 19142630 | 21066.024975054774 | 7.043137738232957  |   97  | 3.8393531514527552 |  283.566800000001 | 84.76640294608217 |
+| 7714880  | 13717.957358605854 | 11.469864012212252 |   99  | 2.1451786351080018 | 172.2901999999999 | 83.56577808611988 |
+| 46253554 | 13717.957358605854 | 11.469864012212252 |   0   | 1.1724846995640852 | 105.3987999999997 | 83.37614621361692 |
+| 20124890 | 31420.461233184666 | 6.609268244254242  |   60  | 1.3895207609071194 | 179.9847000000001 | 83.26083500915308 |
++----------+--------------------+--------------------+-------+--------------------+-------------------+-------------------+
+The gdetail information of best rooms is follows.
+The room ranked 1 is 2791050
++--------------------------------+-----------------------------------------------------------+
+|              Key               |                        Description                        |
++--------------------------------+-----------------------------------------------------------+
+|               id               |                          2791050                          |
+|              name              |            Capitol Hill elegant, charming room            |
+|            host_id             |                          14275599                         |
+|           host_name            |                          Heather                          |
+|      neighbourhood_group       |                                                           |
+|       neighbourhood_left       |                 Capitol Hill, Lincoln Park                |
+|            latitude            |                          38.88488                         |
+|           longitude            |                         -76.98904                         |
+|           room_type            |                        Private room                       |
+|             price              |                             74                            |
+|         minimum_nights         |                             2                             |
+|       number_of_reviews        |                            580                            |
+|          last_review           |                         2023-03-11                        |
+|       reviews_per_month        |                            5.39                           |
+| calculated_host_listings_count |                             3                             |
+|        availability_365        |                            203                            |
+|     number_of_reviews_ltm      |                             77                            |
+|            license             |              Hosted License: 5007242201001047             |
+|             score              |                     489.0644000000011                     |
+|            area_id             |                             39                            |
+|             issafe             |                             1                             |
+|            ischeap             |                             1                             |
+|            distance            |                     1.8180414438936563                    |
+|            isclose             |                             1                             |
+|            geometry            |                 POINT (-76.98904 38.88488)                |
+|              FES               |                     99.09424482110612                     |
+|        dangerous_value         |                     26632.14214467843                     |
+|         dangerous_rate         |                     10.19607279658439                     |
+|          description           | 2552    Close to Capitol, Museums & Metro. Queen size ... |
+|                                |              Name: description, dtype: object             |
+|     neighborhood_overview      | 2552    Capitol Hill is almost completely gentrified. ... |
+|                                |         Name: neighborhood_overview, dtype: object        |
+|          listing_url           |        2552    https://www.airbnb.com/rooms/2791050       |
+|                                |              Name: listing_url, dtype: object             |
+|          picture_url           | 2552    https://a0.muscache.com/pictures/1145d8af-6445... |
+|                                |              Name: picture_url, dtype: object             |
+|            host_url            |     2552    https://www.airbnb.com/users/show/14275599    |
+|                                |               Name: host_url, dtype: object               |
++--------------------------------+-----------------------------------------------------------+
+The room ranked 2 is 3103276
++--------------------------------+-----------------------------------------------------------+
+|              Key               |                        Description                        |
++--------------------------------+-----------------------------------------------------------+
+|               id               |                          3103276                          |
+|              name              |            Attractive 2 Twin Beds Near Capitol            |
+|            host_id             |                          14275599                         |
+|           host_name            |                          Heather                          |
+|      neighbourhood_group       |                                                           |
+|       neighbourhood_left       |                 Capitol Hill, Lincoln Park                |
+|            latitude            |                          38.88488                         |
+|           longitude            |                         -76.98904                         |
+|           room_type            |                        Private room                       |
+|             price              |                             59                            |
+|         minimum_nights         |                             2                             |
+|       number_of_reviews        |                            565                            |
+|          last_review           |                         2023-03-02                        |
+|       reviews_per_month        |                            5.27                           |
+| calculated_host_listings_count |                             3                             |
+|        availability_365        |                            168                            |
+|     number_of_reviews_ltm      |                             56                            |
+|            license             |              Hosted License: 5007242201001047             |
+|             score              |                     445.2121000000012                     |
+|            area_id             |                             39                            |
+|             issafe             |                             1                             |
+|            ischeap             |                             1                             |
+|            distance            |                     1.8180414438936563                    |
+|            isclose             |                             1                             |
+|            geometry            |                 POINT (-76.98904 38.88488)                |
+|              FES               |                     96.61364058334098                     |
+|        dangerous_value         |                     26632.14214467843                     |
+|         dangerous_rate         |                     10.19607279658439                     |
+|          description           | 2560    Close to US Capitol & Mall. Attractive Room wi... |
+|                                |              Name: description, dtype: object             |
+|     neighborhood_overview      | 2560    This is an older neighborhood -- over 100 year... |
+|                                |         Name: neighborhood_overview, dtype: object        |
+|          listing_url           |        2560    https://www.airbnb.com/rooms/3103276       |
+|                                |              Name: listing_url, dtype: object             |
+|          picture_url           | 2560    https://a0.muscache.com/pictures/ea152807-e6f7... |
+|                                |              Name: picture_url, dtype: object             |
+|            host_url            |     2560    https://www.airbnb.com/users/show/14275599    |
+|                                |               Name: host_url, dtype: object               |
++--------------------------------+-----------------------------------------------------------+
+The room ranked 3 is 713529
++--------------------------------+-----------------------------------------------------------------------------+
+|              Key               |                                 Description                                 |
++--------------------------------+-----------------------------------------------------------------------------+
+|               id               |                                    713529                                   |
+|              name              |                    03. The perfect Baseball fans hangout                    |
+|            host_id             |                                   3672670                                   |
+|           host_name            |                                    Dennis                                   |
+|      neighbourhood_group       |                                                                             |
+|       neighbourhood_left       | Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point |
+|            latitude            |                                   38.87182                                  |
+|           longitude            |                                  -77.01231                                  |
+|           room_type            |                                 Private room                                |
+|             price              |                                      99                                     |
+|         minimum_nights         |                                      1                                      |
+|       number_of_reviews        |                                     624                                     |
+|          last_review           |                                  2023-03-16                                 |
+|       reviews_per_month        |                                     5.04                                    |
+| calculated_host_listings_count |                                      14                                     |
+|        availability_365        |                                     163                                     |
+|     number_of_reviews_ltm      |                                      59                                     |
+|            license             |                       Hosted License: 5007242201000434                      |
+|             score              |                              248.2635000000006                              |
+|            area_id             |                                      18                                     |
+|             issafe             |                                      1                                      |
+|            ischeap             |                                      1                                      |
+|            distance            |                              2.0177428644349926                             |
+|            isclose             |                                      1                                      |
+|            geometry            |                          POINT (-77.01231 38.87182)                         |
+|              FES               |                              88.41485655668619                              |
+|        dangerous_value         |                              13717.957358605854                             |
+|         dangerous_rate         |                              11.469864012212252                             |
+|          description           |          2436    The room features a luxurious ultra-comfortabl...          |
+|                                |                       Name: description, dtype: object                      |
+|     neighborhood_overview      |          2436    Southwest Washington DC contains the Smithsoni...          |
+|                                |                  Name: neighborhood_overview, dtype: object                 |
+|          listing_url           |                 2436    https://www.airbnb.com/rooms/713529                 |
+|                                |                       Name: listing_url, dtype: object                      |
+|          picture_url           |          2436    https://a0.muscache.com/pictures/e3c1f11a-ff30...          |
+|                                |                       Name: picture_url, dtype: object                      |
+|            host_url            |              2436    https://www.airbnb.com/users/show/3672670              |
+|                                |                        Name: host_url, dtype: object                        |
++--------------------------------+-----------------------------------------------------------------------------+
+The room ranked 4 is 28253557
++--------------------------------+-----------------------------------------------------------+
+|              Key               |                        Description                        |
++--------------------------------+-----------------------------------------------------------+
+|               id               |                          28253557                         |
+|              name              |              Adams Morgan One Bedroom Retreat             |
+|            host_id             |                         213398164                         |
+|           host_name            |                          Jennifer                         |
+|      neighbourhood_group       |                                                           |
+|       neighbourhood_left       |       Kalorama Heights, Adams Morgan, Lanier Heights      |
+|            latitude            |                          38.91962                         |
+|           longitude            |                         -77.03898                         |
+|           room_type            |                      Entire home/apt                      |
+|             price              |                             95                            |
+|         minimum_nights         |                             1                             |
+|       number_of_reviews        |                            381                            |
+|          last_review           |                         2023-03-14                        |
+|       reviews_per_month        |                            6.95                           |
+| calculated_host_listings_count |                             1                             |
+|        availability_365        |                            146                            |
+|     number_of_reviews_ltm      |                             59                            |
+|            license             |              Hosted License: 5007242201000687             |
+|             score              |                     280.7450000000007                     |
+|            area_id             |                             32                            |
+|             issafe             |                             1                             |
+|            ischeap             |                             1                             |
+|            distance            |                     4.207475105836787                     |
+|            isclose             |                             1                             |
+|            geometry            |                 POINT (-77.03898 38.91962)                |
+|              FES               |                     86.35118632417002                     |
+|        dangerous_value         |                     12685.688677983126                    |
+|         dangerous_rate         |                     7.497451937342273                     |
+|          description           | 4164    This light, airy one-bedroom English basement ... |
+|                                |              Name: description, dtype: object             |
+|     neighborhood_overview      | 4164    The apartment is located in the midst of one o... |
+|                                |         Name: neighborhood_overview, dtype: object        |
+|          listing_url           |       4164    https://www.airbnb.com/rooms/28253557       |
+|                                |              Name: listing_url, dtype: object             |
+|          picture_url           | 4164    https://a0.muscache.com/pictures/5c76df01-7199... |
+|                                |              Name: picture_url, dtype: object             |
+|            host_url            |    4164    https://www.airbnb.com/users/show/213398164    |
+|                                |               Name: host_url, dtype: object               |
++--------------------------------+-----------------------------------------------------------+
+The room ranked 5 is 18746031
++--------------------------------+-----------------------------------------------------------+
+|              Key               |                        Description                        |
++--------------------------------+-----------------------------------------------------------+
+|               id               |                          18746031                         |
+|              name              |     Private Room, Bath, & Balcony, 5 blocks to Capitol    |
+|            host_id             |                          45371351                         |
+|           host_name            |                           Maggie                          |
+|      neighbourhood_group       |                                                           |
+|       neighbourhood_left       |                 Capitol Hill, Lincoln Park                |
+|            latitude            |                          38.89135                         |
+|           longitude            |                         -76.99921                         |
+|           room_type            |                        Private room                       |
+|             price              |                             95                            |
+|         minimum_nights         |                             2                             |
+|       number_of_reviews        |                            286                            |
+|          last_review           |                         2023-03-16                        |
+|       reviews_per_month        |                            4.03                           |
+| calculated_host_listings_count |                             2                             |
+|        availability_365        |                            149                            |
+|     number_of_reviews_ltm      |                             24                            |
+|            license             |              Hosted License: 5007242201000896             |
+|             score              |                     216.9379000000002                     |
+|            area_id             |                             39                            |
+|             issafe             |                             1                             |
+|            ischeap             |                             1                             |
+|            distance            |                     0.868114431231799                     |
+|            isclose             |                             1                             |
+|            geometry            |                 POINT (-76.99921 38.89135)                |
+|              FES               |                      86.2627651990665                     |
+|        dangerous_value         |                     26632.14214467843                     |
+|         dangerous_rate         |                     10.19607279658439                     |
+|          description           | 3542    Private bedroom and bath in Capitol Hill row h... |
+|                                |              Name: description, dtype: object             |
+|     neighborhood_overview      |                        3542    NaN                        |
+|                                |         Name: neighborhood_overview, dtype: object        |
+|          listing_url           |       3542    https://www.airbnb.com/rooms/18746031       |
+|                                |              Name: listing_url, dtype: object             |
+|          picture_url           | 3542    https://a0.muscache.com/pictures/56b77072-0c8d... |
+|                                |              Name: picture_url, dtype: object             |
+|            host_url            |     3542    https://www.airbnb.com/users/show/45371351    |
+|                                |               Name: host_url, dtype: object               |
++--------------------------------+-----------------------------------------------------------+
+The room ranked 6 is 4231934
++--------------------------------+-----------------------------------------------------------------------------+
+|              Key               |                                 Description                                 |
++--------------------------------+-----------------------------------------------------------------------------+
+|               id               |                                   4231934                                   |
+|              name              |                      06. Just the perfect room in SW DC                     |
+|            host_id             |                                   3672670                                   |
+|           host_name            |                                    Dennis                                   |
+|      neighbourhood_group       |                                                                             |
+|       neighbourhood_left       | Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point |
+|            latitude            |                                   38.87083                                  |
+|           longitude            |                                  -77.01369                                  |
+|           room_type            |                                 Private room                                |
+|             price              |                                      99                                     |
+|         minimum_nights         |                                      1                                      |
+|       number_of_reviews        |                                     448                                     |
+|          last_review           |                                  2023-03-09                                 |
+|       reviews_per_month        |                                     4.45                                    |
+| calculated_host_listings_count |                                      14                                     |
+|        availability_365        |                                     170                                     |
+|     number_of_reviews_ltm      |                                      57                                     |
+|            license             |                       Hosted License: 5007242201000434                      |
+|             score              |                              194.0433000000004                              |
+|            area_id             |                                      18                                     |
+|             issafe             |                                      1                                      |
+|            ischeap             |                                      1                                      |
+|            distance            |                              2.1459522595697003                             |
+|            isclose             |                                      1                                      |
+|            geometry            |                          POINT (-77.01369 38.87083)                         |
+|              FES               |                               84.8311794891612                              |
+|        dangerous_value         |                              13717.957358605854                             |
+|         dangerous_rate         |                              11.469864012212252                             |
+|          description           |          2605    The room is just the perfect room for anyone c...          |
+|                                |                       Name: description, dtype: object                      |
+|     neighborhood_overview      |          2605    Southwest Washington DC contains the Smithsoni...          |
+|                                |                  Name: neighborhood_overview, dtype: object                 |
+|          listing_url           |                 2605    https://www.airbnb.com/rooms/4231934                |
+|                                |                       Name: listing_url, dtype: object                      |
+|          picture_url           |          2605    https://a0.muscache.com/pictures/f921a004-b762...          |
+|                                |                       Name: picture_url, dtype: object                      |
+|            host_url            |              2605    https://www.airbnb.com/users/show/3672670              |
+|                                |                        Name: host_url, dtype: object                        |
++--------------------------------+-----------------------------------------------------------------------------+
+The room ranked 7 is 19142630
++--------------------------------+-----------------------------------------------------------+
+|              Key               |                        Description                        |
++--------------------------------+-----------------------------------------------------------+
+|               id               |                          19142630                         |
+|              name              |          Historic Dupont Circle Inn ~ Lola's Room         |
+|            host_id             |                          39930655                         |
+|           host_name            |                            Team                           |
+|      neighbourhood_group       |                                                           |
+|       neighbourhood_left       |         Dupont Circle, Connecticut Avenue/K Street        |
+|            latitude            |                          38.91137                         |
+|           longitude            |                         -77.04363                         |
+|           room_type            |                        Private room                       |
+|             price              |                             97                            |
+|         minimum_nights         |                             1                             |
+|       number_of_reviews        |                            454                            |
+|          last_review           |                         2023-03-15                        |
+|       reviews_per_month        |                            6.47                           |
+| calculated_host_listings_count |                            173                            |
+|        availability_365        |                            282                            |
+|     number_of_reviews_ltm      |                             59                            |
+|            license             |                           Exempt                          |
+|             score              |                      283.566800000001                     |
+|            area_id             |                             16                            |
+|             issafe             |                             1                             |
+|            ischeap             |                             1                             |
+|            distance            |                     3.8393531514527552                    |
+|            isclose             |                             1                             |
+|            geometry            |                 POINT (-77.04363 38.91137)                |
+|              FES               |                     84.76640294608217                     |
+|        dangerous_value         |                     21066.024975054774                    |
+|         dangerous_rate         |                     7.043137738232957                     |
+|          description           | 3577    This fully furnished studio suite, named Lola'... |
+|                                |              Name: description, dtype: object             |
+|     neighborhood_overview      | 3577    Dupont Circle stands out as a cosmopolitan jew... |
+|                                |         Name: neighborhood_overview, dtype: object        |
+|          listing_url           |       3577    https://www.airbnb.com/rooms/19142630       |
+|                                |              Name: listing_url, dtype: object             |
+|          picture_url           | 3577    https://a0.muscache.com/pictures/bb6317c5-e257... |
+|                                |              Name: picture_url, dtype: object             |
+|            host_url            |     3577    https://www.airbnb.com/users/show/39930655    |
+|                                |               Name: host_url, dtype: object               |
++--------------------------------+-----------------------------------------------------------+
+The room ranked 8 is 7714880
++--------------------------------+-----------------------------------------------------------------------------+
+|              Key               |                                 Description                                 |
++--------------------------------+-----------------------------------------------------------------------------+
+|               id               |                                   7714880                                   |
+|              name              |                     04. Master bedroom near the stadium                     |
+|            host_id             |                                   3672670                                   |
+|           host_name            |                                    Dennis                                   |
+|      neighbourhood_group       |                                                                             |
+|       neighbourhood_left       | Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point |
+|            latitude            |                                   38.87074                                  |
+|           longitude            |                                  -77.01299                                  |
+|           room_type            |                                 Private room                                |
+|             price              |                                      99                                     |
+|         minimum_nights         |                                      1                                      |
+|       number_of_reviews        |                                     432                                     |
+|          last_review           |                                  2023-03-17                                 |
+|       reviews_per_month        |                                     4.71                                    |
+| calculated_host_listings_count |                                      14                                     |
+|        availability_365        |                                     172                                     |
+|     number_of_reviews_ltm      |                                      47                                     |
+|            license             |                       Hosted License: 5007242201000434                      |
+|             score              |                              172.2901999999999                              |
+|            area_id             |                                      18                                     |
+|             issafe             |                                      1                                      |
+|            ischeap             |                                      1                                      |
+|            distance            |                              2.1451786351080018                             |
+|            isclose             |                                      1                                      |
+|            geometry            |                          POINT (-77.01299 38.87074)                         |
+|              FES               |                              83.56577808611988                              |
+|        dangerous_value         |                              13717.957358605854                             |
+|         dangerous_rate         |                              11.469864012212252                             |
+|          description           |          2760    This is the largest room in the house with two...          |
+|                                |                       Name: description, dtype: object                      |
+|     neighborhood_overview      |          2760    Southwest Washington DC contains the Smithsoni...          |
+|                                |                  Name: neighborhood_overview, dtype: object                 |
+|          listing_url           |                 2760    https://www.airbnb.com/rooms/7714880                |
+|                                |                       Name: listing_url, dtype: object                      |
+|          picture_url           |          2760    https://a0.muscache.com/pictures/f40e1a4f-9dec...          |
+|                                |                       Name: picture_url, dtype: object                      |
+|            host_url            |              2760    https://www.airbnb.com/users/show/3672670              |
+|                                |                        Name: host_url, dtype: object                        |
++--------------------------------+-----------------------------------------------------------------------------+
+The room ranked 9 is 46253554
++--------------------------------+-----------------------------------------------------------------------------+
+|              Key               |                                 Description                                 |
++--------------------------------+-----------------------------------------------------------------------------+
+|               id               |                                   46253554                                  |
+|              name              |                        citizenM Washington DC Capitol                       |
+|            host_id             |                                  374527046                                  |
+|           host_name            |                                   CitizenM                                  |
+|      neighbourhood_group       |                                                                             |
+|       neighbourhood_left       | Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point |
+|            latitude            |                              38.882860272828765                             |
+|           longitude            |                               -77.019193108707                              |
+|           room_type            |                                  Hotel room                                 |
+|             price              |                                      0                                      |
+|         minimum_nights         |                                      1                                      |
+|       number_of_reviews        |                                     295                                     |
+|          last_review           |                                  2023-02-26                                 |
+|       reviews_per_month        |                                    11.49                                    |
+| calculated_host_listings_count |                                      1                                      |
+|        availability_365        |                                      0                                      |
+|     number_of_reviews_ltm      |                                     146                                     |
+|            license             |                                                                             |
+|             score              |                              105.3987999999997                              |
+|            area_id             |                                      18                                     |
+|             issafe             |                                      1                                      |
+|            ischeap             |                                      1                                      |
+|            distance            |                              1.1724846995640852                             |
+|            isclose             |                                      1                                      |
+|            geometry            |                 POINT (-77.019193108707 38.882860272828765)                 |
+|              FES               |                              83.37614621361692                              |
+|        dangerous_value         |                              13717.957358605854                             |
+|         dangerous_rate         |                              11.469864012212252                             |
+|          description           |                                 5354    NaN                                 |
+|                                |                       Name: description, dtype: object                      |
+|     neighborhood_overview      |                                 5354    NaN                                 |
+|                                |                  Name: neighborhood_overview, dtype: object                 |
+|          listing_url           |                5354    https://www.airbnb.com/rooms/46253554                |
+|                                |                       Name: listing_url, dtype: object                      |
+|          picture_url           |          5354    https://a0.muscache.com/pictures/miso/Hosting-...          |
+|                                |                       Name: picture_url, dtype: object                      |
+|            host_url            |             5354    https://www.airbnb.com/users/show/374527046             |
+|                                |                        Name: host_url, dtype: object                        |
++--------------------------------+-----------------------------------------------------------------------------+
+The room ranked 10 is 20124890
++--------------------------------+-------------------------------------------------------------------------------+
+|              Key               |                                  Description                                  |
++--------------------------------+-------------------------------------------------------------------------------+
+|               id               |                                    20124890                                   |
+|              name              |                 Private Room near Union Station/National Mall                 |
+|            host_id             |                                    20917831                                   |
+|           host_name            |                                      Irik                                     |
+|      neighbourhood_group       |                                                                               |
+|       neighbourhood_left       | Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street |
+|            latitude            |                                    38.9022                                    |
+|           longitude            |                                   -77.01132                                   |
+|           room_type            |                                  Private room                                 |
+|             price              |                                       60                                      |
+|         minimum_nights         |                                       31                                      |
+|       number_of_reviews        |                                      324                                      |
+|          last_review           |                                   2022-08-12                                  |
+|       reviews_per_month        |                                      4.8                                      |
+| calculated_host_listings_count |                                       2                                       |
+|        availability_365        |                                       0                                       |
+|     number_of_reviews_ltm      |                                       22                                      |
+|            license             |                                     Exempt                                    |
+|             score              |                               179.9847000000001                               |
+|            area_id             |                                       6                                       |
+|             issafe             |                                       1                                       |
+|            ischeap             |                                       1                                       |
+|            distance            |                               1.3895207609071194                              |
+|            isclose             |                                       1                                       |
+|            geometry            |                           POINT (-77.01132 38.9022)                           |
+|              FES               |                               83.26083500915308                               |
+|        dangerous_value         |                               31420.461233184666                              |
+|         dangerous_rate         |                               6.609268244254242                               |
+|          description           |           3645    Private room on the second floor of this comfo...           |
+|                                |                        Name: description, dtype: object                       |
+|     neighborhood_overview      |                                  3645    NaN                                  |
+|                                |                   Name: neighborhood_overview, dtype: object                  |
+|          listing_url           |                 3645    https://www.airbnb.com/rooms/20124890                 |
+|                                |                        Name: listing_url, dtype: object                       |
+|          picture_url           |           3645    https://a0.muscache.com/pictures/03c3a2f5-4a25...           |
+|                                |                        Name: picture_url, dtype: object                       |
+|            host_url            |               3645    https://www.airbnb.com/users/show/20917831              |
+|                                |                         Name: host_url, dtype: object                         |
++--------------------------------+-------------------------------------------------------------------------------+

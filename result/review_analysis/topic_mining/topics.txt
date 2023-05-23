@@ -1,0 +1,6 @@
+(0, '0.078*"beautiful" + 0.069*"amazing" + 0.055*"lovely" + 0.051*"clean" + 0.050*"enjoyed" + 0.049*"comfortable" + 0.047*"recommend" + 0.039*"definitely" + 0.034*"fantastic" + 0.029*"well"')
+(1, '0.225*"perfect" + 0.085*"wonderful" + 0.054*"clean" + 0.046*"comfortable" + 0.039*"recommend" + 0.037*"definitely" + 0.034*"love" + 0.024*"well" + 0.019*"perfectly" + 0.019*"loved"')
+(2, '0.266*"nice" + 0.161*"good" + 0.076*"clean" + 0.041*"comfortable" + 0.030*"well" + 0.022*"pretty" + 0.020*"recommend" + 0.018*"enjoyed" + 0.017*"like" + 0.013*"responsive"')
+(3, '0.166*"easy" + 0.149*"great" + 0.096*"clean" + 0.087*"super" + 0.079*"comfortable" + 0.037*"awesome" + 0.035*"well" + 0.034*"loved" + 0.033*"cute" + 0.033*"thanks"')
+(4, '0.534*"great" + 0.077*"clean" + 0.059*"recommend" + 0.053*"definitely" + 0.051*"excellent" + 0.043*"responsive" + 0.042*"helpful" + 0.023*"value" + 0.023*"friendly" + 0.018*"recommended"')
+(5, '0.092*"no" + 0.064*"like" + 0.045*"want" + 0.034*"best" + 0.025*"help" + 0.022*"problem" + 0.019*"sure" + 0.018*"free" + 0.018*"happy" + 0.017*"fine"')

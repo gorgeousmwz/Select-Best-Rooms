@@ -1,0 +1,2500 @@
+100000
+2406	182	1
+1631	abandon	2
+1068	abandoned	10
+1902	abhors	1
+2240	abilities	1
+215	ability	118
+1946	absentee	2
+2385	abuse	1
+1931	abusive	1
+1204	accept	23
+940	acceptable	33
+832	acceptance	2
+1938	acceptant	1
+899	accepted	44
+1406	accepting	11
+834	accepts	2
+734	accident	19
+735	accidental	4
+513	accidentally	63
+1041	accomplish	4
+1411	accomplished	9
+1647	accomplishedbrwe	1
+2107	accuse	4
+1856	accused	11
+2346	aches	1
+767	aching	1
+622	active	75
+675	actively	13
+352	adequate	173
+1754	admirable	1
+2079	admirably	2
+1264	admire	5
+668	admired	3
+362	admiring	10
+968	admit	22
+2082	admits	1
+1616	admitted	5
+113	adorable	506
+1993	adorableness	1
+1147	adorably	13
+637	adore	7
+852	adored	30
+1038	adorn	3
+898	adorned	8
+2089	adorning	1
+1150	advanced	10
+192	advantage	213
+2466	advantagebrthe	1
+1351	advantageous	2
+1481	advantages	6
+132	adventure	61
+2390	adventurers	1
+464	adventures	74
+2332	adventures 	1
+769	adventuring	18
+1192	adventurous	11
+2192	adverse	1
+1013	adversity	1
+742	affected	20
+2247	affection	1
+1112	affectionbrthe	1
+1757	affectionate	3
+2197	aggravated	1
+1491	aggressed	1
+990	aggression	1
+1158	aggressive	14
+453	aggressively	4
+838	agree	57
+2036	agreeable	2
+318	agreed	64
+661	agreeing	2
+1089	agreement	6
+457	alarm	105
+691	alarmed	5
+1248	alarming	3
+1171	alarms	10
+1314	alas	3
+1701	alert	10
+1397	alive	21
+851	allergic	20
+2355	allergicbrbrit	1
+488	allow	155
+353	alone	323
+329	alright	50
+2256	amaze	1
+126	amazed	47
+2049	amazement	1
+102	amazing	6770
+2097	amazingbrbrif	1
+1928	amazingbrbrthe	1
+305	amazon	59
+1665	ambitious	2
+2402	amor	1
+2233	amorous	1
+1981	amuse	1
+1668	amused	2
+1612	amusement	1
+2032	amusements	1
+2094	amusing	1
+1699	and courteous	1
+2259	and thoughtful	1
+1389	anger	3
+1880	angrily	1
+1790	angry	4
+1302	annoy	5
+1816	annoyance	6
+1465	annoyances	3
+644	annoyed	12
+154	annoying	80
+1654	annoyingbrbrroom	1
+1908	annoys	1
+1536	anticipation	4
+782	anxiety	16
+323	anxious	19
+2379	anxiousness	1
+2478	apologise	1
+2485	apologised	1
+2165	apologising	1
+1287	apologize	12
+140	apologized	27
+1118	apologizing	1
+1274	apology	8
+1534	appalled	1
+1140	appalling	2
+1977	appeased	1
+334	appreciate	417
+2291	appreciatebrbrken	1
+31	appreciated	2169
+2250	appreciatedbrbra	1
+2208	appreciatedbrbri	2
+1764	appreciatedbrbroverall	1
+2274	appreciatedbrbrthe	1
+2087	appreciatedbrsandra	1
+1847	appreciatedbrthe	3
+1565	appreciatedbrwe	2
+1153	appreciatedbrwhen	1
+1642	appreciates	5
+2353	appreciate her	1
+744	appreciating	2
+727	appreciation	11
+345	appreciative	43
+1848	approval	6
+1169	approved	16
+2467	approves	1
+1919	arguably	1
+1676	argue	4
+1199	arguing	5
+566	argument	6
+1628	argumentative	2
+1244	arguments	4
+2021	arrested	1
+1588	arrests	3
+912	arrogantly	1
+2191	ashamed	1
+2132	ass	2
+1454	assassination	1
+374	asset	13
+2234	assets	2
+1598	assurance	2
+759	assure	17
+939	assured	36
+1514	assures	1
+936	assuring	4
+2105	astonished	4
+1217	astounding	5
+1648	attachment	4
+2394	attachments	1
+1024	attack	6
+801	attacked	5
+1793	attacking	1
+2214	attacks	1
+1151	attract	4
+275	attracted	9
+228	attraction	60
+105	attractions	1930
+2341	attractionsbr	1
+1476	attractionsbrbrmatt	1
+1883	attractionsbrbrseriously	1
+1774	attractionsbrbrwe	1
+2102	attractionsbri	1
+2050	attractionsbrthe	1
+186	attractive	133
+952	attractively	11
+1795	attracts	4
+349	avid	12
+438	avoid	129
+1179	avoided	16
+905	avoiding	13
+1983	avoids	1
+1198	await	4
+371	awaited	8
+257	awaits	4
+1078	award	6
+300	awarded	2
+1846	awards	2
+110	awesome	3235
+2460	awesomebrbrwe	1
+326	awful	45
+581	awkward	45
+1170	awkwardly	4
+2329	awkwardness	1
+1436	backed	11
+664	backing	11
+1492	backs	16
+76	bad	706
+1460	badbrthe	1
+1629	badass	2
+1385	badly	17
+2099	bamboozled	1
+1956	banned	2
+254	bargain	35
+1168	barrier	7
+1745	battle	4
+1606	battling	1
+346	beaten	51
+1866	beating	6
+2424	beauties	1
+1651	beautification	1
+13	beautiful	7630
+1796	beautifulbrbrthe	2
+169	beautifully	1091
+2227	beautifullybrbrif	1
+1715	beautify	2
+1086	beautifying	1
+549	beauty	42
+1791	belittled	1
+2238	beloved	4
+1346	beneficial	7
+1952	beneficiaries	1
+625	benefit	81
+599	benefits	19
+2086	benefitting	1
+729	benevolent	1
+1644	benign	1
+22	best	3677
+2427	bestbrfrancescabron	1
+5	better	2773
+1934	betterbri	1
+2179	betterbron	1
+2237	bff	1
+2154	bias	1
+1630	biased	6
+1260	bitter	5
+2212	bittersweet	1
+1700	bizarre	2
+2433	bl	1
+2328	blah	1
+1020	blame	11
+1607	blamed	5
+1075	blaming	6
+1052	bless	11
+216	blessed	14
+312	blessing	24
+1538	blessings	1
+961	blind	15
+1894	bliss	2
+1294	blissful	4
+77	block	1602
+2415	blockbrnear	1
+354	blocked	25
+900	blocking	16
+78	blocks	1961
+2213	blocksbrbri	1
+1545	bold	1
+545	bomb	11
+137	bonus	616
+1718	bonusbrbrthe	2
+778	bonusbrin	1
+2412	bonusbrthe	1
+527	bonuses	20
+1675	boost	2
+222	bored	10
+1910	boring	5
+347	bother	355
+59	bothered	106
+864	bothering	19
+969	bothers	16
+876	bothersome	48
+1755	br	no	1
+2420	brave	2
+1144	breathtaking	18
+2204	bribe	2
+146	bright	638
+1311	brighten	4
+1047	brightened	1
+2417	brightening	1
+1753	brightens	1
+1092	brighter	14
+1759	brightest	3
+1445	brightly	14
+2031	brightness	5
+550	brilliant	106
+2407	brilliantbrone	1
+702	brilliantly	12
+350	brisk	13
+322	broke	46
+401	broken	225
+1333	brutal	4
+603	brutally	3
+847	bummer	16
+1065	burden	7
+1805	burdened	1
+2133	burdensome	2
+288	calm	221
+2199	calmbrbrmichael	1
+1982	calmed	3
+540	calmer	5
+764	calming	27
+1261	calmness	3
+515	cancel	71
+310	cancelled	72
+706	cancelling	9
+1988	cancer	1
+1760	capable	3
+262	care	837
+473	cared	121
+669	carefree	6
+281	careful	155
+403	carefully	65
+1296	careless	5
+641	cares	82
+298	caring	189
+407	casual	34
+777	casually	3
+670	cautious	14
+415	celebrate	66
+1517	celebrated	13
+525	celebrating	26
+468	certain	91
+47	certainly	634
+2441	certainty	1
+258	challenge	151
+1045	challenged	8
+379	challenges	26
+558	challenging	124
+1403	champ	3
+359	champagne	28
+1729	champion	1
+1987	champions	1
+1771	championship	1
+1528	championships	1
+1789	champs	2
+35	chance	401
+657	chances	9
+1123	chaos	15
+1042	chaotic	5
+411	charged	63
+689	charges	32
+1324	chargesbrwashington	1
+2440	charitable	1
+1937	charity	1
+139	charm	292
+1473	charmbrbrnext	1
+1736	charmed	3
+938	charmer	7
+82	charming	1265
+1196	charmingbrbr	1
+2345	charmingbrthe	1
+904	charmingly	9
+1431	charms	3
+1320	cheat	1
+909	cheated	1
+1347	cheer	1
+378	cheerful	51
+770	cheerfully	4
+2324	cheerfulness	1
+2252	cheering	1
+1103	cheers	21
+1399	cheersbrbr	1
+557	cheery	33
+1483	cherish	1
+520	cherished	2
+324	chic	158
+1576	childish	2
+794	chilling	13
+1482	choke	1
+2160	choked	1
+1414	clarity	9
+397	classy	68
+6	clean	29659
+2244	cleanbr	1
+662	cleanbrbra	1
+1030	cleanbrbrdennis	1
+2201	cleanbrbrjennifer	1
+2276	cleanbrbrthe	1
+2146	cleanbri	2
+1989	cleanbrin	1
+1750	cleanbrit	1
+427	cleanbrmarina	1
+2278	cleanbrphotos	1
+1529	cleanbrthe	3
+2347	cleanbrthere	1
+2447	cleanbrwe	1
+79	cleaner	144
+200	clear	1206
+528	cleared	20
+206	clearly	352
+1599	clever	7
+1572	cleverly	6
+1345	clueless	2
+861	collapse	3
+1246	collapsed	2
+2013	collision	1
+2326	collisions	1
+1723	combat	2
+1304	comedy	7
+119	comfort	448
+14	comfortable	17334
+1186	comfortablebr	2
+2330	comfortablebrbrcommunication	1
+2189	comfortablebrbrits	1
+2242	comfortablebrbrlocation	1
+1461	comfortablebrbrsummarybrbarbaras	1
+2195	comfortablebrbrthanks	1
+989	comfortablebrbrthe	5
+1596	comfortablebrbrwayne	1
+1711	comfortablebrbrwe	2
+2162	comfortablebranother	1
+1138	comfortablebri	1
+1305	comfortablebrlocation	1
+1888	comfortablebrthe	4
+2125	comfortablebrthey	1
+2444	comfortablebrwe	1
+757	comfortable relaxing	1
+188	comfortably	501
+666	comfortablybrbri	1
+2209	comforted	1
+567	comforter	55
+2245	comforterbr	1
+633	comforters	32
+858	comforting	59
+2474	comfortingly	1
+296	comforts	162
+1583	commend	5
+1502	commended	3
+1404	commit	3
+175	commitment	10
+1515	commitments	2
+752	committed	24
+2101	committing	1
+1739	compassion	2
+1017	compassionate	14
+1055	compelled	9
+2266	compelling	1
+1319	competent	4
+1338	competitive	8
+425	complain	89
+982	complained	27
+2202	complainer	1
+811	complaining	14
+934	complains	13
+106	complaint	262
+261	complaints	389
+2078	complaintsbr	1
+1230	compliment	9
+2381	complimentbrthanks	1
+649	complimentary	172
+1201	complimented	4
+1498	compliments	6
+624	comprehensive	45
+891	confidence	24
+820	confident	27
+1493	confidently	7
+1881	conflict	4
+696	conflicting	2
+1912	conflicts	1
+1929	confronted	2
+863	confused	37
+179	confusing	85
+1040	confusion	34
+1674	confusions	2
+2171	congrats	2
+159	congratulate	1
+1258	congratulations	1
+2260	consent	1
+357	considerate	242
+431	constrained	2
+682	contend	3
+2219	contender	1
+1441	contented	1
+1187	contentious	2
+2288	contradict	1
+2303	contradicted	1
+1778	convince	7
+887	convinced	11
+1913	convinces	2
+860	convincing	3
+1447	convivial	3
+48	cool	1427
+2475	cornered	1
+1367	costly	8
+327	courteous	140
+1259	courtesy	13
+745	coziness	20
+1978	cozinessbrbrits	1
+1271	crap	5
+2236	crappy	1
+231	crash	199
+987	craziness	9
+713	crazy	90
+1088	create	32
+276	created	94
+965	creates	6
+762	creating	40
+2254	creation	1
+1828	creations	1
+1083	creative	25
+1871	creatively	6
+49	creativity	4
+375	credit	41
+1687	credits	5
+957	cried	5
+2495	cries	1
+973	crime	17
+2419	criminal	1
+955	crisis	3
+1235	critic	2
+1131	critical	11
+328	criticism	14
+1562	criticisms	4
+338	criticize	4
+1985	critics	1
+2368	crude	1
+1183	crush	4
+1419	crushed	2
+1868	crushing	1
+743	cry	6
+776	crying	19
+1507	curious	12
+2151	curse	2
+263	cut	92
+60	cute	3193
+1344	cutely	9
+1486	cuteness	1
+390	cuter	10
+387	cutest	74
+1886	cutesy	1
+1408	cutie	3
+1948	cuties	2
+1695	cuts	4
+447	cutting	28
+1775	d8	1
+683	damage	40
+1234	damaged	18
+736	damages	11
+1735	damaging	1
+962	damn	7
+332	danger	10
+150	dangerous	47
+83	dangerously	3
+2397	dangers	1
+1080	darkness	10
+2095	darknessbrthe	1
+503	darling	31
+2255	daze	1
+656	dead	68
+2321	deafening	1
+1021	dear	22
+1437	dearly	3
+2383	dearth	1
+1424	death	5
+2218	decaying	1
+1923	deceitful	1
+2065	deceive	1
+821	deceived	7
+491	deceiving	21
+368	dedicated	100
+1432	defeated	1
+1238	defect	3
+2243	defects	1
+1724	defense	2
+980	defensive	3
+2490	defer	1
+259	definite	78
+28	definitely	13602
+1390	degrading	2
+531	delay	34
+220	delayed	102
+958	delectable	4
+923	delicate	8
+1223	delicately	3
+84	delicious	408
+2130	deliciousbrbrhe	1
+1180	deliciously	1
+477	delight	113
+239	delighted	64
+336	delightful	320
+160	delightfulbrwell	1
+1332	delightfully	15
+1494	delights	4
+586	demand	14
+1090	demanded	5
+918	demanding	6
+1218	demonstration	2
+720	denied	8
+2231	deny	1
+1438	denying	2
+1116	depressing	6
+1463	deprived	4
+2389	derailed	1
+37	desirable	33
+277	desire	30
+217	desired	61
+2313	despair	1
+959	desperate	8
+856	desperately	6
+1702	desperation	2
+1924	destroying	2
+2182	detached	2
+571	determined	10
+894	devastated	1
+1004	devoted	2
+717	diamond	9
+156	dick	56
+198	die	294
+1117	died	12
+111	difficult	485
+268	difficulties	25
+311	difficulty	68
+1758	dignified	1
+2285	dilemma	1
+1549	dire	6
+1005	dirt	53
+1155	dirtier	3
+2349	dirtiest	1
+308	dirty	322
+1006	dirty the	1
+1391	disabling	1
+949	disadvantage	6
+731	disadvantages	3
+1405	disagree	3
+2445	disappear	1
+1115	disappeared	3
+1806	disappears	4
+226	disappoint	88
+309	disappointed	389
+505	disappointing	99
+507	disappointment	35
+703	disappointments	10
+1525	disappoints	3
+1299	disaster	9
+2373	disastrous	1
+2488	discard	1
+1552	discarded	1
+1206	discomfort	7
+1208	discounted	7
+1178	discourage	5
+853	discouraged	6
+1994	disdain	1
+2044	disgrace	1
+1284	disgusted	6
+572	disgusting	27
+1091	disgustingly	2
+1780	disheartening	2
+573	dishonest	3
+1546	disjointed	1
+2164	dislike	2
+721	disliked	4
+704	dismal	2
+2483	dismalbrbrwe	1
+2223	dismay	2
+1726	dismayed	2
+1996	disorder	1
+2308	disorganized	1
+724	dispute	5
+1496	disputes	1
+1865	disregard	1
+1679	disrespect	1
+844	disruption	6
+1467	disruptions	2
+718	disruptive	34
+1640	dissatisfactory	1
+1401	dissatisfied	6
+1703	distract	4
+677	distracted	4
+803	distracting	20
+837	distraction	6
+185	distractions	4
+2043	distraught	1
+2317	distressed	1
+983	distressing	2
+209	disturb	36
+749	disturbance	16
+827	disturbances	7
+286	disturbed	35
+149	disturbing	58
+2496	disturbs	1
+988	divine	19
+2207	diving	2
+1429	dodgy	4
+1109	dominate	1
+2139	dominates	1
+2362	dorky	1
+533	doubt	149
+2375	doubted	1
+1749	doubtful	1
+1336	doubtless	2
+587	doubts	20
+1027	douche	18
+2382	downcast	1
+289	downside	295
+145	drag	26
+2173	dragged	2
+492	drained	3
+1965	dread	2
+1378	dreaded	1
+2111	dreadful	1
+463	dream	129
+1818	dreambradditionally	1
+1618	dreams	6
+1660	dreary	5
+444	drop	266
+848	drown	14
+1396	drowned	5
+2261	drowns	1
+678	drunk	11
+906	dubious	3
+100	dull	8
+1094	dumb	4
+1786	dumbbell	1
+2363	dumbbells	1
+1134	dumbfounded	1
+1402	dump	10
+483	dumping	2
+1081	dumplings	5
+1803	dumpster	3
+1471	dumpsters	6
+1592	duped	1
+984	dwell	1
+1487	dweller	3
+1430	dwellers	5
+1243	dwelling	18
+760	dynamic	5
+1613	dynamite	2
+91	eager	61
+2356	eagerly	1
+1053	eagerness	2
+1032	earnest	1
+430	ease	250
+2147	easebri	1
+554	eased	5
+2293	eases	2
+187	easier	363
+2302	easierbrbrthe	1
+339	easiest	51
+92	easily	1664
+1693	easiness	4
+32	easy	13897
+2491	easybr	1
+2310	easybrbrbyron	1
+1028	easybrbrthaks	1
+2331	easybrbrwe	1
+2272	easybrdonna	1
+1076	easybrmichael	1
+1262	easybrthe	3
+1054	easygoing	44
+2340	easy 	1
+1530	ecstatic	3
+935	eerie	2
+420	effective	68
+68	effectively	37
+655	efficiency	50
+93	efficient	299
+1558	efficientbrbrthanks	1
+588	efficiently	60
+1852	elegance	5
+265	elegant	111
+448	elegantly	15
+1499	embarrassed	5
+1337	embarrassing	3
+2041	embarrassingly	1
+1652	embrace	5
+650	emergency	83
+1066	emotional	2
+1190	empathetic	5
+913	emptied	6
+484	empty	62
+1990	emptying	1
+1921	enchanted	3
+471	encourage	40
+1159	encouraged	19
+1145	encouragement	4
+1632	encourages	3
+1561	encouraging	4
+1649	endorse	3
+1111	endorsement	3
+1801	energetic	13
+1222	energies	2
+2159	energized	2
+2404	energizes	1
+1728	energizing	1
+120	energy	72
+1817	engage	8
+1154	engaged	14
+795	engagement	9
+1578	engagements	2
+178	engaging	34
+107	enjoy	1296
+167	enjoyable	609
+908	enjoyablebrbrbr	1
+1980	enjoyablebrmarina	1
+61	enjoyed	6291
+663	enjoyedbrbrbecause	1
+15	enjoying	169
+342	enjoyment	18
+671	enjoys	25
+2066	enlightening	1
+157	ensure	295
+439	ensuring	43
+1605	enterprising	1
+1189	entertain	24
+436	entertained	22
+948	entertaining	24
+539	entertainment	184
+1885	entertains	1
+553	enthusiasm	13
+2035	enthusiast	1
+382	enthusiastic	36
+519	enthusiastically	16
+1960	entitled	3
+1819	envied	1
+1506	envies	1
+1450	erroneous	1
+719	error	19
+1459	errors	5
+478	escape	75
+1782	escapes	1
+1707	escaping	4
+2456	esteemed	1
+2110	euphoric	1
+2068	exaggerate	1
+1469	exaggerated	2
+1278	exaggerating	5
+2051	excelled	1
+993	excellence	7
+19	excellent	5409
+1906	excellentbr	1
+877	excellentbrbrdeons	1
+1945	excellentbri	1
+548	excellentbrlocation	1
+613	excellently	29
+1276	excels	1
+233	excited	59
+638	excitement	16
+652	exciting	37
+1237	exclusive	3
+2257	excruciating	1
+927	excuse	13
+1255	exhaust	9
+121	exhausted	35
+846	exhausting	12
+1035	exhaustive	3
+2457	expand	1
+2358	exploit	1
+992	exploration	25
+2442	explorationbrbroverall	1
+1383	explorations	4
+2265	expose	1
+445	exposed	60
+494	extend	97
+1776	extends	2
+1967	exuberant	1
+1415	ez	4
+636	fab	32
+33	fabulous	738
+2411	fabulousbrbrall	1
+2205	fabulousbrbrtwo	1
+1395	fabulousness	1
+966	fail	9
+201	failed	35
+1844	failing	2
+2307	failings	1
+1770	faille	2
+1398	fails	3
+1523	failure	4
+2055	failures	2
+512	fair	148
+469	faith	13
+2262	faithfully	1
+470	faiths	3
+607	fake	6
+1539	fallen	4
+408	falling	58
+2284	falsified	1
+1382	fame	2
+50	fan	301
+604	fanbrbreverything	1
+73	fantastic	3633
+2325	fantasticbrbrshe	1
+1911	fantastico	3
+2311	fascinated	2
+363	fascinating	34
+1108	fascination	1
+1503	fatal	2
+907	fatality	1
+2128	fatigue	1
+2392	fatigued	1
+426	fault	188
+1955	faultless	1
+1400	faults	1
+737	faulty	8
+418	fav	17
+1233	fave	7
+593	favor	42
+1213	favorable	5
+1783	favored	4
+96	favorite	647
+1779	favoritebrin	1
+2222	favorited	1
+561	favorites	62
+1488	favors	3
+1253	favour	3
+1939	favours	2
+874	fear	28
+2114	fearful	1
+700	fears	7
+1511	feeble	1
+449	feeling	314
+1708	ferocious	2
+1709	ferociously	2
+589	festival	40
+998	festive	6
+1327	festivities	11
+2157	feud	1
+1490	fiasco	3
+1974	fiery	1
+523	fight	15
+2425	fighter	1
+1200	fighting	16
+574	fights	7
+143	fine	947
+2295	finebr	1
+251	fire	142
+1743	fired	4
+207	fit	600
+590	fitness	24
+2225	flatter	1
+2122	flattering	1
+203	flawless	58
+461	flawlessly	9
+101	flexibility	103
+51	flexible	818
+1283	flexibly	1
+868	flop	2
+1064	flops	1
+1272	flu	1
+1677	flustered	2
+1061	focused	9
+2003	foe	4
+331	fond	9
+1435	fondly	2
+2069	fondness	2
+1135	fool	7
+1683	fooled	3
+919	fooling	1
+2380	foolish	1
+2477	foolishly	1
+1553	foolproof	2
+755	forced	16
+292	forget	161
+772	forgetful	3
+1935	forgivable	1
+2127	forgiven	1
+802	forgiveness	1
+1916	forgiving	2
+562	forgotten	65
+256	fortunate	51
+1986	fought	3
+2309	frantic	2
+1410	frantically	1
+1849	fraudulent	1
+830	freak	15
+1446	freaked	4
+1420	freaking	7
+2366	freakishly	1
+69	free	1477
+2177	freebrbrthe	1
+1958	freebras	1
+1975	freebies	1
+1416	freed	2
+804	freedom	11
+1363	freeing	1
+1359	freely	8
+1470	freestanding	7
+458	freeway	18
+1656	freeze	7
+2123	freezes	1
+705	freezing	54
+247	fresh	635
+224	friend	601
+1110	friendbr	1
+813	friendlier	8
+479	friendliest	20
+1018	friendliness	26
+52	friendly	4667
+2152	friendlybrbrcharlotte	1
+1633	friendlybrbrthe	1
+1407	friendlybrbrthis	1
+2277	friendlybrbrwe	1
+2384	friendlybrwe	1
+172	friends	1570
+1325	friendsbrbrlauren	1
+2318	friendsbra	2
+1827	friendsbrcant	1
+2360	friendsbrpeter	1
+815	friendsbrthe	1
+2251	friendsbrwill	1
+524	friendship	33
+1070	friendships	2
+2015	frightened	2
+2279	frightening	1
+1141	frustrated	19
+785	frustrating	47
+2134	frustrating 	1
+1285	frustration	10
+1051	fulfill	4
+810	fulfilled	16
+1048	fulfills	3
+651	fumes	1
+134	fun	1318
+681	funbrwell	1
+400	funeral	11
+699	funky	65
+1895	funnest	2
+1175	funnily	1
+555	funny	38
+1680	furious	2
+1851	futile	1
+798	fyi	73
+1520	fysa	1
+170	gain	22
+2137	gained	2
+1288	gaining	5
+1342	geeks	3
+1282	generosity	20
+176	generous	331
+560	generously	58
+474	genial	37
+642	gentle	31
+541	gentler	1
+1873	gentlest	1
+1451	gently	4
+1241	ghost	2
+2451	giddy	1
+243	gift	108
+2172	giggle	1
+967	giggled	1
+2422	giggles	2
+1242	giggling	1
+2264	giver	1
+299	giving	224
+2020	gl	1
+290	glad	342
+285	gladly	175
+1917	glamor	1
+695	glamorous	5
+1366	glamour	1
+2010	gloomy	2
+1464	glorified	3
+2306	glorifying	1
+579	glorious	17
+1608	glory	1
+1954	gn	1
+273	god	51
+773	godsend	30
+7	good	10030
+2006	goodbrbrhouse	1
+2175	goodbrbrwould	1
+1462	goodbrbarbara	1
+1306	goodbrwe	2
+2210	goodbrwould	1
+616	goodness	22
+1303	good brnow	1
+208	gorgeous	784
+2108	gorgeousbrbrthe	1
+1102	gorgeously	14
+2019	gr8	1
+302	grace	158
+612	graceful	3
+1942	gracefully	1
+1173	graces	47
+34	gracious	803
+824	graciously	69
+2168	graciousness	2
+365	grand	74
+373	grandeur	1
+843	grant	17
+956	granted	22
+1457	granting	4
+1209	grants	5
+240	grateful	211
+1563	gratefully	2
+1748	gratifying	3
+1191	grating	1
+1019	gratis	11
+1143	gratitude	7
+698	grave	5
+1834	gravel	1
+2136	graveyard	2
+0	great	47836
+1832	greatbrbr	1
+2016	greatbrbra	1
+1579	greatbrbrgreat	1
+2465	greatbrbri	1
+2052	greatbrbrit	1
+1963	greatbrbrits	1
+2315	greatbrbrjust	1
+1862	greatbrbrmy	1
+2056	greatbrbrthanks	1
+2439	greatbrbrwe	1
+1440	greatbrbathroom	1
+1684	greatbrbut	1
+2459	greatbrgetting	1
+1727	greatbrit	1
+2319	greatbrso	1
+2081	greatbrthe	2
+1932	greatbrtheir	1
+2103	greatbryour	1
+88	greater	29
+260	greatest	51
+2296	greed	1
+2268	greedy	2
+245	greet	86
+280	greeted	284
+866	greeting	34
+635	greetings	5
+971	greets	8
+1164	grey	11
+1003	grievances	2
+559	grim	2
+1374	grimaced	1
+2076	grime	5
+1527	grimy	6
+1512	grin	1
+409	gross	42
+1720	grossed	2
+2421	grosser	1
+2232	grossly	1
+741	growing	28
+1863	growth	2
+1524	gt	4
+381	guarantee	19
+1568	guilt	2
+1156	guilty	3
+1216	gun	7
+884	ha	58
+234	haha	47
+2113	hahabrbrloved	1
+714	hahaha	6
+2449	hail	1
+1689	hailed	1
+440	hand	305
+8	handsome	12
+1767	handsomely	1
+196	happier	115
+63	happily	271
+1670	happiness	5
+87	happy	1091
+1810	harassed	6
+180	harassing	2
+2167	harassment	1
+1626	harassments	1
+130	hard	706
+1604	hardship	3
+1746	harm	3
+2028	harmed	1
+1428	harmless	4
+1615	harmonious	1
+686	harsh	7
+1950	harshest	1
+1034	hate	17
+1193	hated	9
+1811	hater	1
+605	hates	1
+808	haunt	1
+870	haunted	1
+674	haunts	7
+732	healthy	43
+1547	heartfelt	3
+2377	heartless	1
+2163	heartwarming	3
+388	heaven	21
+800	heavenly	20
+2229	heavens	1
+1033	hell	28
+9	help	1510
+1423	helpbrbrhis	1
+2448	helper	3
+1128	helpers	2
+2	helpful	7169
+1875	helpfulbr	1
+2062	helpfulbrbrhighly	1
+1930	helpfulbrbrnicely	1
+1971	helpfulbrbrthe	1
+2193	helpfulbrbrval	1
+790	helpfulbrbrwe	1
+2369	helpfulbrit	1
+2339	helpfulbrparking	1
+2344	helpfulbrplacelies	1
+1621	helpfulbrthe	2
+890	helpfully	25
+643	helpfulness	19
+1999	helpful 	1
+2453	helpful brthe	1
+204	helping	187
+2492	helpless	1
+489	helps	86
+1211	hero	27
+1860	hesitancy	2
+393	hesitant	23
+133	hesitate	452
+2258	hesitated	3
+1922	hesitates	1
+1653	hesitating	2
+270	hesitation	144
+1548	hesitations	7
+1254	hid	5
+433	hide	18
+2174	hides	1
+1725	hiding	5
+538	highlight	90
+2461	hindrance	1
+90	holiday	159
+552	holidays	62
+434	honest	88
+369	honestly	315
+2354	honestly was	1
+435	honesty	11
+708	honor	25
+1659	honorable	1
+1379	honored	10
+1570	honors	4
+1740	hooray	2
+85	hope	1217
+462	hoped	106
+1661	hopeful	4
+227	hopefully	133
+2269	hopelessly	1
+1107	hopes	18
+509	hoping	105
+1292	horrendous	8
+319	horrible	69
+1691	horribly	4
+1114	horrid	2
+1751	horrific	5
+1808	horrified	1
+1882	horrify	1
+1829	horrifying	2
+740	horror	3
+1500	hostile	8
+1225	hostility	1
+1352	hug	5
+147	huge	1062
+2153	hugged	1
+2200	hugs	1
+2374	humiliating	1
+946	humor	3
+2292	humorbrbrthe	1
+1172	humored	1
+1968	humorous	1
+1317	humour	4
+723	hunger	3
+1966	hurray	1
+738	hurt	20
+1594	hurtful	1
+1335	hurting	3
+2158	hurts	4
+2248	hypocritical	1
+43	ideal	1140
+1072	idealized	1
+1353	idealless	1
+508	ideally	99
+1920	idiot	2
+950	idk	3
+1182	ignorance	1
+1334	ignore	9
+775	ignored	17
+1962	ignores	1
+1694	ignoring	2
+103	ill	554
+1433	illegal	2
+1412	illness	3
+1541	immune	2
+2084	impatient	1
+65	impersonal	6
+1097	importance	8
+53	important	466
+575	importantly	121
+1964	impose	4
+2025	imposed	1
+2070	imposes	1
+2413	imposing	1
+1896	impress	3
+252	impressed	231
+932	impressing	1
+591	impression	60
+1898	impressionable	1
+1214	impressions	7
+282	impressive	70
+765	impressively	9
+833	improve	55
+235	improved	72
+583	improvement	40
+2470	improvementbrbrhost	1
+763	improvements	28
+495	improves	3
+1544	improving	9
+608	inability	7
+1443	inadequate	2
+1220	inadequately	1
+1839	incentive	2
+1864	incompetence	2
+1792	incompetent	1
+880	inconsiderate	7
+330	inconvenience	85
+266	inconvenient	68
+2007	inconvenientbrbryes	1
+1321	increase	10
+1368	increased	7
+2059	indifferent	2
+1889	ineffective	3
+1601	injured	5
+1161	injury	5
+1466	innovative	1
+2000	inquisitive	2
+1573	insane	9
+1349	insecure	5
+2343	insensitive	1
+1181	insignificant	1
+1831	inspiration	4
+585	inspirational	3
+1387	inspirations	2
+1136	inspired	18
+2405	inspires	1
+450	inspiring	16
+2435	inspiringly	1
+1162	insult	3
+1474	insulted	3
+1641	insults	1
+1714	intact	2
+1870	integrity	6
+2119	intellectual	2
+1194	intelligent	14
+2267	intelligently	1
+924	intense	16
+304	interest	149
+1046	interestbr	1
+577	interested	132
+1350	interestedbroverall	1
+437	interesting	453
+1098	interestingly	3
+428	interests	22
+1969	interrupt	3
+1079	interrupted	10
+1105	interrupting	2
+1219	interruption	6
+543	interruptions	2
+1119	intimidated	4
+422	intimidating	13
+2178	intimidation	1
+389	intricate	4
+928	invite	18
+44	inviting	427
+2388	ironic	2
+910	irony	2
+2370	irrational	1
+1589	irresponsible	2
+1669	irritated	1
+1298	irritating	3
+2418	irritation	2
+1566	irritations	2
+1312	isolate	3
+730	isolated	15
+787	isolation	14
+2487	issuesbr5	nice	1
+1026	itchy	3
+517	jealous	10
+2300	jealously	1
+1738	jerk	1
+1176	jewel	11
+2117	jewels	2
+2423	jj	1
+421	join	27
+994	joke	14
+2438	joked	2
+2012	jokes	2
+1940	jolly	1
+452	joy	81
+2493	joyed	1
+911	joyful	6
+1126	joyfully	1
+1478	joyous	3
+2241	joyride	1
+1858	joys	7
+1297	jp	2
+1277	jt	12
+271	justice	245
+1947	justified	2
+376	keen	11
+1339	kia	4
+715	kidding	12
+916	kill	11
+360	killed	11
+504	killer	21
+1571	killing	6
+2314	kills	1
+114	kind	2592
+2104	kindbri	1
+2143	kindbrthe	1
+806	kinder	9
+232	kindly	144
+74	kindness	93
+2109	kindnessbr	1
+1843	kindnesses	1
+1096	kiss	2
+1475	kissed	1
+1620	kisses	3
+2391	kk	1
+486	kudos	18
+97	lack	186
+780	lag	16
+1763	lagged	6
+1634	lags	1
+1413	laidback	7
+1712	lame	2
+1555	lamentable	2
+1859	lamented	1
+1585	landmark	8
+711	laugh	10
+2161	laughably	1
+710	laughed	7
+1231	laughing	11
+2273	laughs	3
+1564	laughter	3
+2054	launched	1
+2023	lawsuit	3
+1157	lazy	17
+693	leak	35
+181	leaked	10
+162	leave	860
+193	legal	8
+576	legally	4
+1560	lenient	5
+1861	liability	4
+2333	liberty	1
+1323	lied	6
+974	lies	9
+514	lifesaver	38
+62	like	6307
+903	likeable	1
+189	liked	679
+753	likes	44
+1077	liking	30
+54	limited	224
+2187	limitedbrbroverall	1
+930	livelier	2
+2075	liveliest	1
+1704	livelihood	1
+1212	liveliness	3
+16	lively	235
+2098	lmao	1
+1959	loathe	1
+361	lobby	95
+128	lol	157
+1177	lone	11
+1666	loneliness	1
+917	lonely	6
+1733	loner	1
+1279	loom	1
+929	looming	2
+739	loose	32
+1841	looses	1
+399	lose	22
+922	losing	18
+2060	loss	7
+1639	losses	1
+344	lost	97
+1533	louse	1
+2335	lousy	2
+506	lovable	8
+10	love	2113
+17	loved	5962
+112	lovely	5506
+1133	lovely airbnb apartment	1
+854	lover	15
+1663	loverly	3
+1073	lovers	20
+628	loves	47
+665	loving	25
+366	lovingly	18
+38	low	352
+313	lower	215
+1226	lowered	5
+1933	lowering	1
+882	lowest	4
+1842	lows	1
+2400	loyal	1
+1813	lts	1
+355	luck	52
+1146	lucked	29
+1485	luckier	4
+406	luckily	111
+429	lucky	208
+2364	lurk	1
+653	lurking	3
+2217	ly	2
+1449	lying	9
+849	mad	13
+1581	madness	6
+1012	magnificent	30
+1521	mandatory	4
+1597	maniacs	1
+2396	manipulating	1
+2080	marvel	3
+177	marvelous	36
+1953	masterpiece	1
+565	matter	158
+1267	matters	28
+165	mature	7
+885	meaningful	6
+2091	medal	1
+925	meh	9
+1127	mercy	5
+1120	merits	2
+889	merry	46
+1163	mess	34
+1031	messed	17
+799	messy	30
+2479	methodical	1
+1239	mia	8
+2416	mindless	1
+831	miracle	5
+1484	misbehaved	1
+1273	miserable	14
+601	misleading	48
+1734	misread	3
+1867	misrepresentation	1
+241	miss	208
+391	missed	121
+1310	misses	5
+364	missing	225
+2246	missingbrinsufficient	1
+238	mistake	53
+1655	mistakebrbrin	1
+1229	mistakenly	4
+1125	mistakes	7
+441	misunderstanding	10
+1600	misunderstood	1
+1007	most disappointing we	1
+1567	motivated	5
+1614	motivation	2
+1681	mourn	1
+1380	mourning	1
+2206	nagging	1
+639	nah	8
+1671	naive	1
+2473	nastier	1
+941	nasty	14
+64	natural	467
+291	neat	679
+2334	neater	1
+2399	neath	1
+592	neatly	19
+1479	neatness	2
+2471	needy	1
+485	negative	190
+1984	negativity	1
+2008	neglected	4
+1526	nerves	4
+480	nervous	77
+1245	nervousness	1
+1142	nh	2
+3	nice	16513
+774	nicebr	1
+2022	nicebrbrjim	1
+1845	nicebrbrjohn	1
+871	nicebrbrthe	2
+1722	nicebran	1
+771	nicebras	1
+152	nicebrit	1
+1207	nicebrthe	2
+1627	nicebrwe	1
+99	nicely	1183
+66	nicer	251
+284	nicest	186
+1085	niceties	5
+2376	nicety	2
+1016	nifty	7
+20	no	4704
+985	noble	19
+212	noisy	628
+761	nonsense	2
+1744	nosey	4
+879	notorious	8
+2040	novel	4
+333	number	343
+1574	nurturing	2
+534	nuts	10
+754	obnoxious	8
+1918	obnoxiously	1
+2226	obsess	1
+1205	obsessed	7
+914	obsessively	1
+2176	obsolete	1
+2071	obstacle	2
+301	odd	86
+1781	offended	1
+1797	offending	1
+1251	offensive	1
+202	ok	435
+1624	okbrbrspace	1
+1071	okbrbrthe	3
+2437	okbrcant	1
+2106	okbrhad	1
+340	okay	296
+1307	okaybrbrthe	1
+2064	okaybrthe	1
+1165	ominous	1
+1062	openness	6
+750	opportunities	29
+123	opportunity	226
+1768	oppressive	1
+1358	optimal	13
+1093	optimally	7
+394	optimized	3
+1195	optimizes	1
+1943	optimizing	2
+412	original	89
+892	outgoing	11
+786	outrageous	9
+1719	outrageously	2
+1100	outrages	1
+1586	outreach	2
+141	outstanding	541
+2436	overjoyed	1
+1008	overload	3
+648	overlooked	32
+2047	overreact	1
+1650	oversell	1
+2357	overweight	1
+546	overwhelm	1
+692	overwhelmed	12
+1409	overwhelmingly	3
+2361	oxymoron	1
+306	pain	56
+878	painful	4
+1784	painfully	1
+701	painless	37
+1362	pains	6
+1014	panic	9
+768	panicked	7
+627	paradise	22
+1370	paranoid	9
+1331	partied	3
+1941	partier	1
+432	parties	47
+248	party	342
+384	partying	21
+1785	passion	4
+1224	passionate	7
+2336	passionately	1
+2409	passions	1
+1388	passive	1
+2224	pathetic	2
+343	pay	314
+456	peace	111
+459	peaceful	660
+2148	peacefulbrthe	1
+872	peacefully	15
+1821	peacefulness	2
+1997	peculiar	2
+2450	peculiarity	1
+1897	penalty	4
+4	perfect	13502
+1891	perfectbrbrbrbrbr	1
+2067	perfectbrbroverall	1
+1556	perfectbradreinne	1
+1788	perfectbralthough	1
+1970	perfectbrthe	2
+1766	perfectbrwe	2
+392	perfecta	38
+788	perfectas	3
+954	perfected	4
+424	perfection	62
+865	perfectionbrthe	1
+621	perfectionist	2
+194	perfectly	1319
+1905	perfectlybradam	1
+789	perfecto	41
+1802	perfects	1
+2426	pesky	1
+1593	petty	5
+779	phobia	1
+818	picturesque	47
+1824	piss	1
+2166	pissed	1
+2298	pita	1
+2170	pitifully	1
+1343	pity	7
+223	play	334
+2045	playbrbrthe	1
+1002	played	44
+502	playful	10
+1682	playfulness	1
+551	playing	129
+937	plays	13
+36	pleasant	1607
+2033	pleasantbrbrbefore	1
+2484	pleasantbrbrthe	1
+1215	pleasantbrthank	1
+2156	pleasantbrwe	1
+272	pleasantly	110
+947	pleasantries	3
+70	please	223
+1876	pleasebrthe	1
+142	pleased	327
+1936	pleaser	2
+709	pleasing	53
+841	pleasurable	18
+1	pleasure	531
+2142	pleasurebrbr	1
+1972	pleasuring	1
+1662	plz	1
+835	po	6
+850	poison	1
+1326	poisoning	2
+857	poor	104
+2338	poorer	2
+2476	poorest	1
+236	popular	162
+2185	popularity	3
+129	positive	247
+676	positively	11
+293	positives	28
+1227	positivity	5
+2034	postponed	1
+2221	postponing	1
+2462	poverty	1
+295	powerful	34
+1280	praise	22
+2270	praised	1
+1152	praises	4
+2186	pray	2
+2323	praying	1
+1535	precious	15
+2230	prejudice	1
+249	prepared	438
+173	pressure	472
+921	pressured	2
+1752	pretend	4
+684	prettier	9
+1717	prettiest	10
+168	pretty	1931
+673	prevent	26
+521	prevented	21
+725	preventing	7
+626	prevents	4
+404	pride	53
+1925	prison	2
+688	privilege	14
+1087	privileged	2
+1672	privileges	3
+1184	prize	5
+2322	prized	1
+396	proactive	111
+86	problem	1261
+2263	problembrbr	1
+1798	problembrbras	1
+1777	problembrbrat	1
+2481	problembrits	1
+2038	problembrteresa	1
+402	problematic	28
+144	problems	574
+2342	problemsbrbrthe	1
+1537	problemsbrwe	1
+1371	profit	3
+1240	profiter	5
+1690	profits	1
+1124	progress	9
+620	prominent	7
+1058	promise	21
+24	promised	124
+2009	promisedbr	1
+836	promises	9
+1622	promising	2
+2287	promote	2
+2327	promoted	3
+2401	prosbr	good	1
+1236	prospect	1
+2367	prospects	1
+1730	prosperous	1
+748	protect	10
+446	protected	9
+1513	protects	1
+2112	protest	1
+1269	protests	2
+991	proud	7
+1504	provoking	2
+1270	pu	21
+2494	puke	1
+1635	punished	2
+2290	punishing	1
+2092	pushy	4
+2472	qq	1
+568	questionable	37
+1812	questioned	4
+2486	questioning	1
+2253	racism	3
+1043	racist	1
+547	radiant	8
+498	rainy	68
+2299	rancid	1
+2048	rant	1
+1907	rants	1
+1330	rash	2
+398	reach	482
+2228	reachbrbrwe	1
+94	reached	248
+1384	reaches	2
+1121	reaching	43
+1257	readiness	3
+55	ready	638
+933	reassurance	4
+1814	reassure	2
+931	reassured	5
+1056	reassuring	20
+1657	reassuringly	1
+2434	rebellion	1
+11	recommend	16275
+1901	recommendbr	1
+1892	recommendbrbr	1
+1973	recommendbrbrprosbrexcellent	1
+2365	recommendbrnote	1
+56	recommended	2041
+1393	recommendedbr	4
+1532	recommendedbrbramazing	1
+578	recommends	11
+2196	recommend 	1
+2194	reek	1
+1356	reeked	6
+2118	reeking	1
+1392	refuse	8
+812	refused	31
+1022	refusing	3
+417	regret	258
+1421	regretfully	1
+697	regrets	11
+451	regrettably	3
+797	regretted	4
+1357	regretting	2
+2216	rejected	1
+1899	rejecting	1
+108	relax	695
+2286	relaxbrwe	1
+2155	relaxant	1
+584	relaxation	41
+246	relaxed	139
+1301	relaxes	2
+135	relaxing	672
+2115	relaxingbrthe	1
+1705	relentless	1
+1354	reliant	2
+529	relief	38
+783	relieve	2
+1050	relieved	12
+2239	reliever	1
+1840	relieving	2
+1623	reluctant	4
+499	remarkable	28
+814	rescue	12
+1696	rescued	2
+609	resolve	97
+356	resolved	163
+2169	resolvedbrbrsomething	1
+1458	resolver	5
+1884	resolves	4
+335	resolving	14
+901	respect	67
+1688	respectable	5
+314	respected	39
+1060	respectedbrbron	1
+413	respectful	197
+1252	respectfully	8
+2454	respectfulness	1
+1394	respecting	14
+1256	respective	5
+1247	respectively	4
+817	respects	27
+582	responsible	66
+57	responsive	7702
+2393	responsivebrbrjust	1
+2351	responsivebrbrnot	1
+2275	responsivebrapartment	1
+1149	responsivebri	1
+1721	responsivebrthe	1
+443	restful	77
+1095	restless	5
+490	restore	4
+367	restored	38
+886	restoring	2
+1250	restrict	1
+1375	restricted	16
+1826	restricting	1
+1074	restriction	1
+2042	retained	3
+1281	retard	3
+71	retreat	163
+963	revered	1
+862	revive	1
+2359	reward	1
+1063	rewarded	4
+1084	rich	36
+2131	richer	1
+726	ridiculous	22
+1067	ridiculously	19
+1587	rigged	3
+385	rigid	2
+1686	rigorous	2
+532	risk	52
+2124	risked	1
+999	risks	3
+733	risky	2
+685	rob	110
+214	robs	47
+1455	robust	4
+522	romantic	44
+1773	romantically	1
+2271	rotten	2
+819	rude	49
+881	rudely	3
+981	rudeness	4
+1210	ruin	17
+746	ruined	22
+2072	ruining	2
+615	sad	90
+654	saddened	1
+873	sadly	26
+29	safe	4776
+1667	safebr	1
+1489	safebrbrdavid	1
+1909	safebrbrif	1
+2150	safebrbrkelly	1
+1591	safebrmy	1
+1877	safebrwe	2
+1998	safebrwould	1
+1807	safeguarded	1
+370	safely	61
+127	safer	30
+598	safest	32
+315	safety	177
+1678	sarcasm	1
+1554	sarcastic	1
+1361	sarcastically	2
+690	satisfaction	17
+1286	satisfactorily	2
+825	satisfactory	23
+358	satisfied	169
+2061	satisfiedbrnice	1
+2190	satisfies	2
+1472	satisfy	6
+614	satisfying	18
+297	save	142
+570	saved	175
+1501	scam	6
+1197	scare	5
+855	scared	22
+2463	scaring	1
+631	scary	55
+1893	sceptic	1
+2002	sceptical	1
+1731	scoop	4
+712	scream	6
+2220	screamed	1
+386	screaming	24
+1645	screams	3
+1480	screw	2
+1557	screwdriver	1
+1872	screwed	4
+2014	screws	5
+2316	scrumptious	2
+210	secure	586
+2283	securebrbrlike	1
+556	secured	62
+537	securely	9
+1643	securing	7
+190	security	209
+2372	selfish	1
+2005	selfishly	2
+1434	sentence	1
+1838	sentences	1
+756	serene	50
+594	serious	46
+80	seriously	118
+1516	seriousness	1
+535	severe	12
+2181	severely	7
+597	sexy	1
+414	shake	9
+2386	shaken	1
+2046	shakers	1
+1697	shaking	1
+1355	shaky	4
+687	shame	13
+2403	shamed	1
+1636	shameful	1
+1637	shamefully	1
+136	share	531
+21	shared	619
+405	shares	41
+155	sharing	321
+1268	shattered	1
+1809	shit	2
+2337	shits	1
+1742	shock	6
+975	shocked	29
+1044	shocking	5
+1376	shockingly	10
+2126	shook	2
+307	shoot	23
+893	shortage	11
+1756	showerbr	uncomfortable	1
+595	shy	18
+161	sick	29
+2184	sickening	1
+2001	sigh	1
+1787	significance	2
+278	significant	69
+1569	silly	10
+476	sin	95
+977	sincere	10
+1099	sincerely	9
+1057	sincerer	1
+1879	sincerest	1
+996	sinister	1
+672	skeptical	20
+1439	slam	7
+2446	slash	1
+1833	sluggish	1
+2414	slut	1
+81	smart	224
+395	smartly	14
+1825	smh	3
+221	smile	45
+1101	smiles	8
+660	smiling	6
+465	snafu	9
+2039	sneaky	3
+2482	snob	1
+943	snobs	2
+634	sob	1
+1835	sociability	1
+944	sociable	8
+416	solid	207
+2443	solidbra	1
+253	solution	59
+1203	solutions	24
+510	solve	47
+351	solved	60
+2301	solvedbri	1
+784	solves	5
+1957	solving	7
+1522	somber	1
+1903	soothed	1
+410	soothing	18
+617	sophisticated	22
+1036	sore	11
+1029	sorry	63
+2294	spark	1
+1422	sparkle	3
+95	sparkling	667
+2138	sparklingbr	1
+197	special	479
+2458	specialbrno	1
+926	spirit	17
+751	spirited	3
+1452	spite	20
+796	splendid	27
+2431	splendidly	1
+1137	splendor	1
+2096	splendours	1
+1610	stabbed	1
+822	stable	19
+530	stall	18
+455	stamina	3
+2430	stank	1
+1926	startle	1
+1069	startled	8
+1009	startled and jumped	1
+1291	startling	6
+1295	starving	5
+274	steal	54
+1582	stealer	2
+1857	stealing	3
+320	stench	8
+2350	stimulated	1
+1453	stimulating	3
+1365	stingy	1
+2249	stink	1
+2017	stinking	1
+1132	stinks	2
+1221	stinky	3
+951	stolen	16
+115	stop	1586
+493	stopped	129
+859	stopping	32
+116	stops	690
+1737	stopsbrbrjim	1
+1762	stopsbrwould	1
+1293	stout	1
+316	straight	214
+1037	strainer	2
+1747	strainers	2
+1904	strains	2
+182	strange	48
+1266	strangely	4
+1364	strength	9
+2497	strengthened	1
+2428	strengths	1
+148	stress	123
+481	stressed	17
+482	stressful	58
+2027	stressing	1
+2452	stressless	1
+1836	stressors	1
+1951	strike	2
+2053	strikes	1
+294	strong	160
+1369	stronger	7
+869	strongest	1
+1468	stronghold	1
+211	strongly	220
+791	struck	8
+888	struggle	30
+195	struggled	32
+1855	struggles	2
+1289	struggling	11
+544	stuck	61
+2352	stuckbrbrgreat	1
+1584	stunk	2
+1995	stunned	1
+163	stunning	169
+1010	stupid	3
+2093	stupidity	1
+1372	stupidly	3
+2018	suave	3
+972	substantial	13
+1577	subversive	1
+1765	succeed	1
+747	succeeded	2
+680	success	29
+1550	successbrjane	1
+839	successful	15
+1510	successfully	6
+2455	suck	1
+526	sucked	8
+1340	sucker	2
+1160	sucks	13
+466	suffer	5
+623	suffered	4
+1341	suffering	3
+2026	suffers	1
+325	sunny	139
+230	sunshine	22
+23	super	8683
+118	superb	386
+542	superior	29
+380	support	118
+383	supported	11
+419	supporting	8
+596	supportive	55
+2129	supportiveness	1
+2145	supports	1
+2387	supremacist	1
+218	supreme	217
+1106	supremely	6
+25	sure	3248
+1878	surebr	1
+1575	surebrbrthank	1
+1772	surebrbrthe	1
+1139	surebri	1
+2498	surebrthe	1
+153	surely	87
+138	surprise	206
+1900	surprisebrbrbr	1
+225	surprised	284
+337	surprises	96
+826	surprising	33
+39	surprisingly	183
+1442	survived	2
+867	suspect	22
+2029	suspected	2
+1425	suspicious	11
+2030	suspiciously	1
+960	swear	9
+915	swears	1
+117	sweet	751
+978	sweetheart	21
+2198	sweethearts	1
+2057	sweetie	3
+1188	sweetly	3
+805	sweets	8
+1023	swift	28
+606	swiftly	18
+875	sympathetic	7
+883	sympathy	1
+640	talent	3
+1039	talented	8
+2211	tantrum	1
+564	tard	3
+2297	tears	3
+629	teas	60
+2289	teaspoon	2
+618	tense	2
+1820	tensing	1
+1874	tension	3
+321	terrible	130
+131	terribly	20
+18	terrific	612
+1638	terrifically	4
+2116	terrified	4
+1769	terrifying	3
+26	thank	3263
+1049	thanked	3
+158	thankful	131
+317	thankfully	72
+1509	thankfulness	1
+30	thanks	3102
+1495	thanksbrbrdear	1
+979	thievery	1
+1619	thks	1
+104	thoughtful	1805
+58	thoughtfully	274
+536	thoughtfulness	53
+1991	thoughtfulnessbr	1
+2100	thoughtless	1
+2371	threat	3
+2395	threaten	2
+722	threatened	19
+1540	threatening	3
+2480	threating	1
+1799	threats	1
+1386	thrill	1
+953	thrilled	43
+1322	thrilling	2
+2085	thrills	1
+2011	thwarted	1
+667	thx	13
+1300	ticked	4
+2305	timid	3
+679	tired	121
+1202	tolerance	5
+942	tolerant	6
+237	top	1172
+1185	tops	33
+183	torn	11
+1732	torture	3
+264	tough	103
+1611	tougher	2
+728	toughest	1
+2408	toughness	1
+377	tout	173
+98	tranquil	49
+1418	tranquility	11
+2144	tranquillity	2
+645	trap	9
+1011	trapped	12
+1830	trauma	1
+1315	traumatic	1
+840	treasure	30
+2063	treasured	1
+1794	treasures	5
+1348	treasury	1
+229	treat	216
+511	trick	30
+1580	tricked	2
+816	trickier	2
+283	trickling	1
+807	tricks	11
+348	tricky	184
+2280	trivial	2
+72	trouble	403
+1417	troubled	2
+442	troubles	36
+1290	troubleshoot	5
+1664	troubleshooting	1
+1602	troublesome	5
+1603	troubling	2
+40	true	358
+1360	truest	2
+122	truly	1041
+496	trust	47
+166	trustable	1
+1015	trusted	4
+1427	trusting	5
+945	trustworthy	5
+1308	trusty	1
+658	truth	12
+895	truthful	2
+2088	truthfully	4
+902	tx	2
+1122	ty	15
+1741	ugh	4
+2140	ugly	3
+896	unacceptable	24
+2183	unattractive	1
+897	unaware	13
+460	unbelievable	43
+1082	uncertain	6
+1531	uncertainties	1
+1685	uncertainty	4
+1232	unclear	14
+191	uncomfortable	370
+823	uncomfortablebrplates	1
+454	uncomfortably	13
+1914	uncontrollable	2
+1265	underestimate	2
+1692	undesirable	2
+1448	unease	2
+1129	uneasy	22
+1927	unethical	3
+1890	unfair	5
+995	unfortunate	40
+287	unfortunately	378
+1228	unfriendly	5
+2348	unfulfilled	2
+1174	unhappy	6
+2073	unhealthy	1
+501	united	22
+1706	unkind	3
+1609	unloving	1
+632	unmatched	21
+267	unpleasant	41
+646	unprofessional	14
+2120	unprotected	1
+1823	unsatisfied	1
+1804	unsavory	4
+1000	unsecured	2
+2469	unsettled	1
+244	unstable	12
+1625	unsuccessful	1
+1519	unsuccessfully	1
+716	unsure	29
+1559	unwanted	5
+1815	unwelcome	9
+809	upset	22
+2141	upsetting	3
+1316	uptight	1
+1329	urgent	12
+213	useful	363
+1001	useless	6
+1850	vain	1
+2135	validate	2
+600	valuable	42
+828	valuablebr	1
+647	valuables	12
+125	value	2661
+1761	valuebrbrgrace	1
+2304	valuebrclean	1
+1025	valued	5
+1444	values	4
+964	vanity	16
+2281	very　good	1
+171	vibrant	197
+1595	victim	2
+1710	vigilant	3
+2378	vigor	1
+2083	vigorously	1
+1979	vile	1
+1961	violate	2
+1542	violated	1
+2121	violates	1
+1992	violating	2
+610	violation	6
+611	violations	3
+1949	violence	1
+1822	violent	3
+1698	violently	2
+1059	vip	1
+2090	virtue	2
+1497	virtues	1
+1915	vision	3
+423	vital	11
+1318	vitality	2
+1854	vitamin	1
+2215	vivacious	1
+1275	vulnerable	1
+845	walkout	10
+164	want	2588
+1249	wantbrbrwould	1
+199	war	214
+124	warm	1543
+829	warmed	12
+242	warmer	99
+842	warmers	1
+970	warmest	8
+1167	warmhearted	14
+792	warming	15
+619	warmly	65
+472	warms	7
+279	warmth	59
+659	warn	29
+250	warned	62
+255	warning	61
+516	warnings	6
+1716	warns	6
+2235	wars	2
+976	waste	34
+1104	wasted	6
+1543	wasting	4
+630	wd	30
+341	weak	48
+781	weaker	1
+1853	weakest	2
+1309	weakling	1
+1313	weakness	4
+500	wealth	22
+986	wealthier	1
+2077	wealthy	1
+1590	weapons	1
+475	weary	19
+467	weird	82
+2410	weirdness	1
+1426	weirdos	1
+12	welcome	1269
+2468	welcomebr	1
+1456	welcomebrthe	1
+205	welcomed	454
+1887	welcomedbrbrvery	1
+1518	welcomes	7
+67	welcoming	2315
+1477	welcomingbrbr	1
+793	welcomingbrbri	1
+46	well	11109
+1837	wellbr	1
+2074	wellbrbreverything	1
+2203	wellbrbrjoanne	1
+2188	wellbrbrthe	1
+2149	wellbrbrwill	1
+2320	wellbrall	1
+2180	wellbrhad	1
+2004	wellbri	1
+2429	wellbrit	1
+2489	wellbrthe	1
+2464	wellbrwe	2
+1551	wellness	2
+1166	wells	2
+2282	well  we	1
+45	whimsical	4
+1646	whine	1
+1373	whining	2
+1976	whore	1
+1148	wicked	5
+580	willingness	26
+219	win	23
+1328	winner	24
+2037	winners	1
+1869	winning	3
+1944	wins	2
+1617	wisdom	3
+269	wise	54
+2024	wisely	1
+41	wish	720
+707	wishes	23
+518	wishing	27
+1508	witch	4
+2058	woe	1
+497	won	7
+27	wonderful	7599
+2312	wonderfulbrbrthis	1
+42	wonderfully	311
+1130	woo	1
+109	worn	60
+174	worried	141
+487	worries	42
+1381	worrisome	4
+151	worry	249
+602	worrying	31
+694	worse	50
+2432	worsened	1
+766	worship	3
+184	worst	83
+75	worth	800
+1800	worthless	1
+1113	worthwhile	20
+1263	worthy	21
+89	wow	165
+997	wowed	4
+372	wrong	219
+1713	wtf	1
+1377	xd	2
+1658	xoxo	2
+1505	yay	8
+303	yeah	12
+1673	yep	3
+569	yes	153
+2398	youthful	1
+563	yummy	82
+920	zealous	1
+758	 thanks	1

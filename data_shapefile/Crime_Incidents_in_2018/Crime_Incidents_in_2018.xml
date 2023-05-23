@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20150101</pubdate>
+                <title>Crime Incidents</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The dataset contains a subset of locations and attributes of incidents reported in the ASAP (Analytical Services Application) crime report database by the District of Columbia Metropolitan Police Department (MPD). Visit https://crimecards.dc.gov for more information. This data is shared via an automated process where addresses are geocoded to the District's Master Address Repository and assigned to the appropriate street block. Block locations for some crime points could not be automatically assigned resulting in 0,0 for x,y coordinates. These can be interactively assigned using the MAR Geocoder.On February 1 2020, the methodology of geography assignments of crime data was modified to increase accuracy. From January 1 2020 going forward, all crime data will have Ward, ANC, SMD, BID, Neighborhood Cluster, Voting Precinct, Block Group and Census Tract values calculated prior to, rather than after, anonymization to the block level. This change impacts approximately one percent of Ward assignments.</abstract>
+            <purpose>On February 1 2020, the methodology of geography assignments of crime data was modified to increase accuracy. From January 1 2020 going forward, all crime data will have Ward, ANC, SMD, BID, Neighborhood Cluster, Voting Precinct, Block Group and Census Tract values calculated prior to, rather than after, anonymization to the block level.  This change impacts approximately one percent of Ward assignments. This change was not applied to datasets pre-2020.</purpose>
+            <supplinf>All statistics presented in Crime Cards are based on preliminary DC criminal code offense definitions. The data do not represent official statistics submitted to the FBI under the Uniform Crime Reporting program (UCR) or National Incident Based Reporting System (NIBRS). All preliminary offenses are coded based on DC criminal code and not the FBI offense classifications. Please understand that any comparisons between MPD preliminary data as published on this website and the official crime statistics published by the FBI under the Uniform Crime Reporting Program (UCR) are inaccurate and misleading. The MPD does not guarantee (either expressed or implied) the accuracy, completeness, timeliness, or correct sequencing of the information. The MPD will not be responsible for any error or omission, or for the use of, or the results obtained from the use of this information. 
+
+Please note that changes to MPD's PSA and police district boundaries occasionally occur. The statistics provided through DC Crime Mapping Application are based on current police boundaries as of January 3, 2017. 
+
+Sex Assault Data Availability: In an effort to provide more clear information about the most serious sex assaults that are most closely aligned with the public's perception of rape and attempted rape, the most serious sex abuse categories are included in the reports of DC Code Index Violent Crimes: Sex Assault. The figures reported in this category include First Degree Sex Abuse, Second Degree Sex Abuse, Attempted First Degree Sex Abuse and Assault with Intent to Commit First Degree Sex Abuse against adults. Data in this format is available online from 2011. Similar to the other offense data, the sex assault statistics are subject to change due to a variety of reasons, such as a change in classification, the determination that certain offense reports were unfounded, or late reporting. Please understand that any comparisons between MPD preliminary data as published on this website and the official crime statistics published by the FBI under the Uniform Crime Reporting Program (UCR) are inaccurate and misleading. 
+
+Please also be aware that on Sunday, August 23, 2015, the MPD implemented a new records management system called Cobalt. The offense categories presented within this application have remained the same; however, all statistics are subject to change due to a variety of reasons, such as a change in classification, the determination that certain offense reports were unfounded, or late reporting. 
+
+All statistics presented in Crime Cards are based on preliminary DC Index crime data reported from 2009 up to a second before midnight today (that's 11:59:59 pm yesterday) . They are compiled based on the date the offense was reported ( Report Date) to the police department. The date and time window of the crime’s occurrence is provided in the See a detailed list… card, but the reliability of these dates and times may vary considerably. The Crime Cards application displays two main crime categories: Violent Crime and Property Crime. Violent Crimes include homicide, sex abuse, assault with a dangerous weapon (ADW), and robbery. Violent crimes can be further searched by the weapon used: guns, non-guns, or either. Property Crimes include burglary, motor vehicle theft, theft from vehicle, theft (other), and arson. Please be aware that not all crime incidents may appear in the Crime Cards that may be listed in other resources.
+ 
+The numbers reported here can vary from those released elsewhere for a number of reasons including:
+ 
+Crime Cards only includes crimes with map coordinates that can be displayed. Crime Cards does not include these crimes because they can’t be mapped, and for simplicity of interpretation, all cards must use the same data. This limitation historically results in an exclusion of approximately 3% of all data. These numbers are based on preliminary DC criminal code offense definitions and are subject to change due to the dynamic nature of crime incident data. For more information, please see the Fine Print card.
+ 
+All date searches are for full days, midnight to midnight, local time (Eastern Standard/Daylight-savings Time) . Other data sources may not strictly apply a midnight to midnight query and may include the full or partial day of the end date searched.
+ 
+OCTO made some technical improvements in how Crime Cards summarizes and compares crime incidents; therefore, the data displayed may not exactly match the summaries on the Crime Map.
+Crime Map did not strictly apply a midnight-to-midnight search, but rather provided some data after midnight on the current day.
+ 
+Crime Map’s comparison date range also included the full set of crime incident records for the current day. This incorporated an additional day’s worth of crime to the comparison period resulting in slightly mismatched crime comparisons.
+ 
+Crime Map comparison date ranges were always for the previous year, which resulted in overlapping time frames being compared when searched date ranges were greater than one year.
+OCTO’s updated approach with the Crime Cards application is more accurate when making comparisons for trend and pattern analyses.</supplinf>
+        </descript>
+        <status>
+            <progress>Complete</progress>
+            <update>Daily</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-77.1142</westbc>
+                <eastbc>-76.9099</eastbc>
+                <northbc>38.9949</northbc>
+                <southbc>38.8134</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Crime</themekey>
+                <themekey>Feeds</themekey>
+                <themekey>DC GIS</themekey>
+                <themekey>cdw</themekey>
+                <themekey>MPD</themekey>
+                <themekey>safety</themekey>
+                <themekey>robbery</themekey>
+                <themekey>homicide</themekey>
+                <themekey>assault</themekey>
+                <themekey>burglary</themekey>
+                <themekey>theft</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>society</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>Washington D.C.</placekey>
+                <placekey>DC</placekey>
+                <placekey>District of Columbia</placekey>
+            </place>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Metropolitan Police Department</cntorg>
+                </cntorgp>
+                <cntpos>Joint Strategic and Tactical Analysis Command Center</cntpos>
+            </cntinfo>
+        </ptcontac>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Office of the Chief Technology Officer</cntorg>
+                </cntorgp>
+                <cntpos>GIS Data Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>200 I Street SE</address>
+                    <city>Washington</city>
+                    <state>DC</state>
+                    <postal>20003</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(202) 727-2277</cntvoice>
+                <cntemail>dcgis@dc.gov</cntemail>
+                <hours>8:30 am - 5 pm</hours>
+            </cntinfo>
+        </ptcontac>
+        <datacred>Metropolitan Police Department</datacred>
+        <native>Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>Entity point</sdtstype>
+                <ptvctcnt>363923</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>DCGIS.CRIMEPT</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>CCN</attrlabl>
+                <attrdef>Criminal Complaint Number</attrdef>
+                <attrdefs>MPD</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>A unique identifier assigned by MPD to each incident report.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>REPORT_DAT</attrlabl>
+                <attrdef>Crime Report Date</attrdef>
+                <attrdefs>MPD</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>The date the offense was reported to MPD, which may be later than the date the offense actually occurred.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SHIFT</attrlabl>
+                <attrdef>MPD Shift</attrdef>
+                <attrdefs>MPD</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>MPD member's tour of duty associated with the time the report was taken. Day shift generally runs between 0700 and 1500 (military time); evening shift between 1500 and 2300, and midnight shift between 2300 and 0700. If the shift is unknown, the field will say "UNK".</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>METHOD</attrlabl>
+                <attrdef>Type of weapon used to commit crime</attrdef>
+                <attrdefs>OCTO</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>OFFENSE</attrlabl>
+                <attrdef>Crime Offense</attrdef>
+                <attrdefs>MPD</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Crime Offense. For crime offense definitions, please visit http://crimemap.dc.gov/CrimeDefinitions.aspx.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>BLOCK</attrlabl>
+                <attrdef>Black Name</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Block Name bases on its Theoretical Address Range from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>XBLOCK</attrlabl>
+                <attrdef>Block X Coordinate</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Block X coordinate (centroid) of crime incident from MAR Geocoder, as reference to the Maryland State Plane NAD 1983 Meters.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>YBLOCK</attrlabl>
+                <attrdef>Block Y Coordinate</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Block Y coordinate (centroid) of crime incident from MAR Geocoder, as reference to the Maryland State Plane NAD 1983 Meters.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>WARD</attrlabl>
+                <attrdef>Distric Ward Identifier</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Ward ID from from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ANC</attrlabl>
+                <attrdef>Advisory Neighborhood Commission Identifier</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>ANC ID from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>DISTRICT</attrlabl>
+                <attrdef>Police District</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Police district from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>PSA</attrlabl>
+                <attrdef>Police Service Areas</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>PSA ID from from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>NEIGHBORHOOD_CLUSTER</attrlabl>
+                <attrdef>Neighborhood Cluster</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Neighborhood Cluster from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>BLOCK_GROUP</attrlabl>
+                <attrdef>Census Block Group</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Cenus block group from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>CENSUS_TRACT</attrlabl>
+                <attrdef>Census Track</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Census track from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>VOTING_PRECINCT</attrlabl>
+                <attrdef>Voting Precinct</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Voting precinct from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>XCOORD</attrlabl>
+                <attrdef>X Coordinate</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>X Coordinate of crime incident from MAR Geocoder, as reference to the Maryland State Plane NAD 1983 Meters</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>YCOORD</attrlabl>
+                <attrdef>X Coordinate</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Y Coordinate of crime incident from MAR Geocoder, as reference to the Maryland State Plane NAD 1983 Meters</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LATITUDE</attrlabl>
+                <attrdef>Latitude</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Latitude (decimal degrees) of Crime Incident from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LONGITUDE</attrlabl>
+                <attrdef>Longitude</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Longitude (decimal degrees) of Crime Incident from MAR Geocoder</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>BID</attrlabl>
+                <attrdef>Business Improvement Districts</attrdef>
+                <attrdefs>OCTO</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>START_DATE</attrlabl>
+                <attrdef>Crime Start Date</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Crime incident start date and time</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>END_DATE</attrlabl>
+                <attrdef>Crime End Date</attrdef>
+                <attrdefs>OCTO</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Crime incident end date and time</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SE_ANNO_CAD_DATA</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Coordinates defining the features.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>D.C. Office of the Chief Technology Officer</cntorg>
+                    <cntper>GIS Data Coordinator</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>200 I Street SE, 5th Floor</address>
+                    <city>Washington</city>
+                    <state>DC</state>
+                    <postal>20003</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntfax>(202) 727-5660</cntfax>
+                <cntemail>dcgis@dc.gov</cntemail>
+                <hours>8:30 am - 5 pm</hours>
+            </cntinfo>
+        </distrib>
+        <distliab>See access and use constraints information.</distliab>
+        <custom>DC datasets can be downloaded from "http://opendata.dc.gov".</custom>
+    </distinfo>
+    <metainfo>
+        <metd>20221228</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Office of the Chief Technology Officer</cntorg>
+                    <cntper>GIS Data Coordinator</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>200 I Street SE, 5th Floor</address>
+                    <city>Washington</city>
+                    <state>DC</state>
+                    <postal>20003</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(202) 727-2277</cntvoice>
+                <cntfax>(202) 727-5660</cntfax>
+                <cntemail>dcgis@dc.gov</cntemail>
+                <hours>8:30 am - 5 pm</hours>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
